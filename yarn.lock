@@ -883,10 +883,10 @@
   resolved "https://registry.yarnpkg.com/@types/strip-json-comments/-/strip-json-comments-0.0.30.tgz#9aa30c04db212a9a0649d6ae6fd50accc40748a1"
   integrity sha512-7NQmHra/JILCd1QqpSzl8+mJRc8ZHz3uDm8YV1Ks9IhK0epEiTw8aIErbvH9PI+6XbqhyIQy3462nEsn7UVzjQ==
 
-"@types/svgo@2.6.2":
-  version "2.6.2"
-  resolved "https://registry.yarnpkg.com/@types/svgo/-/svgo-2.6.2.tgz#97d8be0c50ff0562ed7522ba840149aee1c970e3"
-  integrity sha512-m1SqMc/EDAZ8v0BBX+NmlYytUXtvrMD2/J9LICwnMvAuJwb0GSmACU3XPvcORqE7ghEJA4Mk6NYzpwhQI/biPw==
+"@types/svgo@2.6.4":
+  version "2.6.4"
+  resolved "https://registry.yarnpkg.com/@types/svgo/-/svgo-2.6.4.tgz#b7298fc1dd687539fd63fc818b00146d96e68836"
+  integrity sha512-l4cmyPEckf8moNYHdJ+4wkHvFxjyW6ulm9l4YGaOxeyBWPhBOT0gvni1InpFPdzx1dKf/2s62qGITwxNWnPQng==
   dependencies:
     "@types/node" "*"
 
